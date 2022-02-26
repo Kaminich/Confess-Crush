@@ -10,7 +10,7 @@ const CONFIG = {
     question: 'Trên thế giới hơn 7 tỉ người mà sao bạn lại thích mình <3',
     btnReply: 'Gửi cho bạn',
     reply: 'Tại bạn siu cấp cute phô mai que lun :)))))))))))) ',
-    mess: 'Mình biết mà 🥰. Iu bạn nhiều nhiều 💋',
+    mess: 'Awww. Mình biết mà 🥰. Cảm ơn nha',
     messDesc: 'Vậy từ bây giờ mình là người iu nha 💕.',
     btnAccept: 'Okiiiii lun 😘',
     messLink: 'https://www.facebook.com/caominh.nguyen.338'
