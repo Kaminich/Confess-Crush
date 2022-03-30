@@ -13,5 +13,5 @@ const CONFIG = {
     mess: 'Awww 😆. Mình biết mà 🥰. Cảm ơn nha',
     messDesc: 'Vậy từ bây giờ mình là người iu nha 💕.',
     btnAccept: 'Okiiiii lun 😘',
-    messLink: 'https://www.facebook.com/caominh.nguyen.338'
+    messLink: 'https://media1.tenor.co/images/9d7a3102e79014b466554dc761227360/tenor.gif?ver=1112&c=VjFfZmFjZWJvb2tfd2ViY29tbWVudHM&itemid=13661766&fbclid=IwAR29_HafB7_wcUjau__CXK__Q81rNsJGbc26oivb5H_jFD3MQnMnH39tGPk'
 }
