@@ -2,7 +2,7 @@ const CONFIG = {
     titleWeb: "Tỏ tình online <3",
     introTitle: 'Thảo My',
     introDesc: `Tui thích bạn lắm, làm người yêu tui nha`,
-    btnIntro: '^^HiHi^^',
+    btnIntro: 'Cũ cũ cái loz',
     title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 🥰',
     desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
     btnYes: 'Okie la <3',
