@@ -2,7 +2,7 @@ const CONFIG = {
     titleWeb: "Tỏ tình online <3",
     introTitle: 'Thu Huyền (AKA Bé Mèo)',
     introDesc: `Anh thích em lắm, làm người yêu anh nha`,
-    btnIntro: 'Cũ cũ cái loz',
+    btnIntro: 'Ủa gì z trừi kkk',
     title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 🥰',
     desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
     btnYes: 'Okie la <3',
